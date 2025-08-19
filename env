@@ -1,0 +1,2 @@
+REACT_APP_SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+REACT_APP_API_URL=http://localhost:3001/api
